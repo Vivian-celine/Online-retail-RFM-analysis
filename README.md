@@ -133,7 +133,7 @@ This chart shows the percentage distribution of customers across the RFM segment
 ---
 
 ### 2️⃣ Customer Segmentation Pivot Summary  
-![Customer Segmentation Pivot Summary](RFM. Scoring.PNG)
+![Customer Segmentation Pivot Summary](RFM.20Segmentation.PNG)
 
 This pivot table summarizes customer counts and percentage contribution per segment, supporting strategic marketing decisions.
 
@@ -144,7 +144,9 @@ This pivot table summarizes customer counts and percentage contribution per segm
 
 This preview displays the ranking and scoring logic used to generate Recency, Frequency, and Monetary scores before segmentation.
 
-#📈 Key Insights
+---
+
+## 📈 Key Insights
 
 ~30% of customers are Champions & Loyal, forming a strong revenue base
 
