@@ -1,4 +1,4 @@
-#📊 Online Retail RFM Analysis
+## 📊 Online Retail RFM Analysis
 📌 Internship Project – Elevvo Pathways
 
 This project analyzes customer purchasing behavior using RFM (Recency, Frequency, Monetary) Analysis.
