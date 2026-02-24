@@ -133,14 +133,14 @@ This chart shows the percentage distribution of customers across the RFM segment
 ---
 
 ### 2️⃣ Customer Segmentation Pivot Summary  
-![Customer Segmentation Pivot Summary](segmentation_pivot_table.png)
+![Customer Segmentation Pivot Summary](RFM. Scoring.PNG)
 
 This pivot table summarizes customer counts and percentage contribution per segment, supporting strategic marketing decisions.
 
 ---
 
 ### 3️⃣ RFM Scoring & Ranking Process  
-![RFM Scoring and Ranking Process](rfm_scoring_process.png)
+![RFM Scoring and Ranking Process](RFM.%20Scoring.PNG)
 
 This preview displays the ranking and scoring logic used to generate Recency, Frequency, and Monetary scores before segmentation.
 
