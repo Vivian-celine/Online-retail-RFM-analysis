@@ -6,7 +6,7 @@ Customers were scored based on their activity and segmented into groups to suppo
 
 ---
 
-#🎯 Objective
+## 🎯 Objective
 
 Analyze customer behavior using Recency, Frequency, and Monetary metrics
 
@@ -18,7 +18,7 @@ Suggest simple marketing strategies for each customer segment
 
 ---
 
-#📂 Dataset Overview
+## 📂 Dataset Overview
 
 Initial dataset: 941,910 rows × 8 columns
 
@@ -28,7 +28,7 @@ Dataset type: Online Retail Transactions
 
 ---
 
-#🧹 Data Cleaning Process
+## 🧹 Data Cleaning Process
 
 The following steps were performed using Excel Power Query:
 
@@ -52,7 +52,7 @@ Rows where Stock Code = Bank Charges, Postage, Manual
 
 ---
 
-#📊 RFM Analysis Process
+## 📊 RFM Analysis Process
 
 Using Pivot Tables:
 
@@ -82,7 +82,7 @@ Conducted segmentation using Excel formulas
 
 Visualized results using Pivot Charts
 
-🧩 Customer Segments
+## 🧩 Customer Segments
 
 Customers were grouped into:
 
@@ -112,18 +112,17 @@ A large "Others" segment suggests room for deeper behavioral targeting
 
 ---
 
-#💡 Marketing Recommendations
-Segment	Strategy
-Champions	VIP rewards, referrals, upselling
-Loyal	Personalized offers, loyalty strengthening
-High-Potential	Increase frequency via targeted promotions
-At Risk	Re-engagement campaigns
-Lost	Win-back campaigns
-Others	Encourage repeat purchases
+## 💡 Marketing Recommendations Segment Strategy
+Champions: VIP rewards, referrals, upselling
+Loyal: Personalized offers, loyalty strengthening
+High-Potential:	Increase frequency via targeted promotions
+At Risk:	Re-engagement campaigns
+Lost:	Win-back campaigns
+Others:	Encourage repeat purchases
 
 ---
 
-#🛠 Tools Used
+## 🛠 Tools Used
 
 Microsoft Excel
 
@@ -135,7 +134,7 @@ Excel Formulas (RANK, IFS, Percentile)
 
 ---
 
-#🚀 Project Outcome
+## 🚀 Project Outcome
 
 This project demonstrates practical application of:
 
