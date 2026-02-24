@@ -133,7 +133,7 @@ This chart shows the percentage distribution of customers across the RFM segment
 ---
 
 ### 2️⃣ Customer Segmentation Pivot Summary  
-![Customer Segmentation Pivot Summary](RFM.20Segmentation.PNG)
+![Customer Segmentation Pivot Summary](RFM.%20Segmentation.PNG)
 
 This pivot table summarizes customer counts and percentage contribution per segment, supporting strategic marketing decisions.
 
