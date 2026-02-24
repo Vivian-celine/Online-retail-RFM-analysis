@@ -6,6 +6,27 @@ Customers were scored based on their activity and segmented into groups to suppo
 
 ---
 
+```
+online-retail-rfm-analysis/
+│
+├── README.md
+│
+├── data/
+│   └── online_retail_raw.xlsx
+│
+├── cleaned_data/
+│   └── online_retail_cleaned.xlsx
+│
+├── images/
+│   ├── rfm_distribution_chart.png
+│   ├── segmentation_pivot_table.png
+│   ├── rfm_scoring_process.png
+│
+└── docs/
+    └── marketing_strategies_summary.pdf
+```
+
+---
 ## 🎯 Objective
 
 Analyze customer behavior using Recency, Frequency, and Monetary metrics
@@ -101,6 +122,27 @@ Customers were grouped into:
 🌱 Others
 
 ---
+
+## 📊 Dashboard Preview  
+
+### 1️⃣ RFM Segmentation Distribution  
+![RFM Segmentation Distribution](rfm_distribution_chart.png)
+
+This chart shows the percentage distribution of customers across the RFM segments, highlighting retention strength and churn exposure.
+
+---
+
+### 2️⃣ Customer Segmentation Pivot Summary  
+![Customer Segmentation Pivot Summary](segmentation_pivot_table.png)
+
+This pivot table summarizes customer counts and percentage contribution per segment, supporting strategic marketing decisions.
+
+---
+
+### 3️⃣ RFM Scoring & Ranking Process  
+![RFM Scoring and Ranking Process](rfm_scoring_process.png)
+
+This preview displays the ranking and scoring logic used to generate Recency, Frequency, and Monetary scores before segmentation.
 
 #📈 Key Insights
 
