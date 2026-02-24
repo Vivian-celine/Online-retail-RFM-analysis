@@ -126,7 +126,7 @@ Customers were grouped into:
 ## 📊 Dashboard Preview  
 
 ### 1️⃣ RFM Segmentation Distribution  
-![RFM Segmentation Distribution](rfm_distribution_chart.png)
+![RFM Segmentation Distribution](RFM.%20Distribution%20Chart.PNG)
 
 This chart shows the percentage distribution of customers across the RFM segments, highlighting retention strength and churn exposure.
 
