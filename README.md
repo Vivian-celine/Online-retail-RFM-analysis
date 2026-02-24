@@ -82,6 +82,8 @@ Conducted segmentation using Excel formulas
 
 Visualized results using Pivot Charts
 
+---
+
 ## 🧩 Customer Segments
 
 Customers were grouped into:
@@ -145,6 +147,3 @@ Customer Segmentation
 Behavioral Analysis
 
 Business Strategy Translation
-Screenshot of ranking and scoring formulas.
-
-4️⃣ data_cleaning_steps.png
