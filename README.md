@@ -189,7 +189,7 @@ This pivot table summarizes customer counts and percentage contribution per segm
 ---
 
 ### 3️⃣ Revenue vs Customer  
-![RFM Scoring and Ranking Process](RFM%20Scoring.PNG)
+![RFM Scoring and Ranking Process](Revenue%20vs%20customer.PNG)
 
 This preview displays the total revenue % and total customer %, for better view of high segent and revenue
 
