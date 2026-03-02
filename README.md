@@ -105,7 +105,7 @@ Visualized results using Pivot Charts
 
 ---
 
-## 📊 RFM Customer Segmentation & Pareto Analysis (Excel Project)
+## 📊 RFM Customer Segmentation & Pareto Analysis 
 
 This project applies RFM (Recency, Frequency, Monetary) analysis to segment customers based on purchasing behavior and identify revenue concentration patterns.
 
@@ -188,7 +188,7 @@ This pivot table summarizes customer counts and percentage contribution per segm
 
 ---
 
-### 3️⃣ Revenue vs Customer  
+###  Revenue vs Customer  
 ![RFM Scoring and Ranking Process](Revenue%20vs%20customer.PNG)
 
 This preview displays the total revenue % and total customer %, for better view of high segent and revenue
