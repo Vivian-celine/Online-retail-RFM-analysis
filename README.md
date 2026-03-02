@@ -156,7 +156,7 @@ Customers were grouped into:
 ## 📊 Dashboard Preview  
 
 ###  RFM Segmentation Distribution  
-![RFM Segmentation Distribution](RFM%20Segmentation.PNG.)
+![RFM Segmentation Distribution](RFM%20Segmentation.PNG)
 
 This chart shows the percentage distribution of customers across the RFM segments, highlighting retention strength and churn exposure.
 
@@ -206,7 +206,9 @@ At Risk customers represent significant churn danger.
 Segment size does not always align with revenue contribution.
 
 ---
+
 ## Recommendations 
+
 🎯 Protect Champions immediately — assign account managers, exclusive offers, VIP treatment; losing even a few hits revenue hard 
 
 📈 Invest heavily in High-Potential — they're your largest segment with the most room to grow; targeted upsell campaigns can convert them to Champions 
@@ -221,10 +223,15 @@ Segment size does not always align with revenue contribution.
 
 ## 💡 Marketing Recommendations Segment Strategy
 Champions: VIP rewards, referrals, upselling
+
 Loyal: Personalized offers, loyalty strengthening
+
 High-Potential:	Increase frequency via targeted promotions
+
 At Risk:	Re-engagement campaigns
+
 Lost:	Win-back campaigns
+
 Others:	Encourage repeat purchases
 
 ---
