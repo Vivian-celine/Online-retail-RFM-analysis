@@ -175,14 +175,14 @@ This pivot table summarizes customer counts and percentage contribution per segm
 ---
 
 ###  Parento Analysis 
-![Parento_Analysis](Parento%analysis.PNG)
+![Parento_Analysis](Parento%20analysis.PNG)
 
 This chart shows the parento distribution of customers, total revenue and cummulative % of revenue
 
 ---
 
 ###  Parento Segment 
-![Parento Segment](Parento%Segment.PNG)
+![Parento Segment](Parento%20Segment.PNG)
 
 This pivot table summarizes customer counts and percentage contribution per segment, on the Top 80% revenue and the remaining 20%
 
