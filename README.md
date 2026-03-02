@@ -105,6 +105,36 @@ Visualized results using Pivot Charts
 
 ---
 
+## 📊 RFM Customer Segmentation & Pareto Analysis (Excel Project)
+
+This project applies RFM (Recency, Frequency, Monetary) analysis to segment customers based on purchasing behavior and identify revenue concentration patterns.
+
+🔹 Project Enhancements
+
+In addition to basic RFM segmentation,I :
+
+Performed a Pareto (80/20) analysis to identify the customers driving 80% of total revenue.
+
+Analyzed how the 80% revenue group is distributed across different RFM segments using a Pivot Table.
+
+Compared % Revenue vs % Customer Distribution by RFM segment to evaluate segment efficiency.
+
+Identified revenue concentration risk and churn exposure.
+
+🔹 Key Analytical Components
+
+RFM scoring using percentile-based ranking
+
+Customer segmentation using structured IFS logic
+
+Pareto revenue classification (Top 80% vs Bottom 20%)
+
+Pivot table analysis of revenue and customer share
+
+Comparative chart: % Revenue vs % Total Customers by segment
+
+---
+
 ## 🧩 Customer Segments
 
 Customers were grouped into:
@@ -125,36 +155,67 @@ Customers were grouped into:
 
 ## 📊 Dashboard Preview  
 
-### 1️⃣ RFM Segmentation Distribution  
-![RFM Segmentation Distribution](RFM.%20Distribution%20Chart.PNG)
+###  RFM Segmentation Distribution  
+![RFM Segmentation Distribution](RFM%20Distribution%20Chart.PNG)
 
 This chart shows the percentage distribution of customers across the RFM segments, highlighting retention strength and churn exposure.
 
 ---
 
-### 2️⃣ Customer Segmentation Pivot Summary  
-![Customer Segmentation Pivot Summary](RFM.%20Segmentation.PNG)
+###  Customer Segmentation Pivot Summary  
+![Customer Segmentation Pivot Summary](RFM%20Segmentation.PNG)
 
 This pivot table summarizes customer counts and percentage contribution per segment, supporting strategic marketing decisions.
 
 ---
 
-### 3️⃣ RFM Scoring & Ranking Process  
-![RFM Scoring and Ranking Process](RFM.%20Scoring.PNG)
+###  RFM Scoring & Ranking Process  
+![RFM Scoring and Ranking Process](RFM%20Scoring.PNG)
 
-This preview displays the ranking and scoring logic used to generate Recency, Frequency, and Monetary scores before segmentation.
+---
+
+###  Parento Analysis 
+![Parento_Analysis](Parento%analysis.PNG)
+
+This chart shows the parento distribution of customers, total revenue and cummulative % of revenue
+
+---
+
+###  Parento Segment 
+![Parento Segment](Parento%Segment.PNG)
+
+This pivot table summarizes customer counts and percentage contribution per segment, on the Top 80% revenue and the remaining 20%
+
+---
+
+### 3️⃣ Revenue vs Customer  
+![RFM Scoring and Ranking Process](RFM%20Scoring.PNG)
+
+This preview displays the total revenue % and total customer %, for better view of high segent and revenue
 
 ---
 
 ## 📈 Key Insights
 
-~30% of customers are Champions & Loyal, forming a strong revenue base
+26% of customers generate 80% of total revenue.
 
-Over 30% show churn signals (Lost + At Risk)
+Revenue is highly concentrated among High-Potential and Champions segments.
 
-High-Potential customers present growth opportunity
+At Risk customers represent significant churn danger.
 
-A large "Others" segment suggests room for deeper behavioral targeting
+Segment size does not always align with revenue contribution.
+
+---
+## Recommendations 
+🎯 Protect Champions immediately — assign account managers, exclusive offers, VIP treatment; losing even a few hits revenue hard 
+
+📈 Invest heavily in High-Potential — they're your largest segment with the most room to grow; targeted upsell campaigns can convert them to Champions 
+
+⚠️ Launch a win-back campaign for At Risk — 674 in the bottom tier means revenue is leaking; use personalized discounts or re-engagement emails before they become Lost 
+
+💎 Reward Loyal Customers more aggressively — they over-index on revenue; a loyalty tier upgrade program could push more into the top 80% 
+
+🚫 Minimize spend on Lost Customers — redirect that budget to At Risk retention instead 📊 Focus 80% of your marketing budget on the 1,129 top customers — they are your business engine; retention beats acquisition here.
 
 ---
 
